@@ -2,5 +2,5 @@ ignore:
   vulnerabilities:
     CVE-2026-78676:
       /dev/breeze/uv.lock:
-        reason: BY_DESIGN
+        reason: Yash
    
